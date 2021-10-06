@@ -1,5 +1,4 @@
 import { Login } from '@/presentation/pages'
-import '@/presentation/styles/global.scss'
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import React from 'react'
